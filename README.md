@@ -4,7 +4,8 @@
 This project focuses on analyzing sales data to extract meaningful business insights and present them through an interactive dashboard. The solution combines Excel, Python, and Streamlit to perform end-to-end data analysis and visualization.
 
 ---
-
+###Live Demo
+https://sales-analytics-dashboard-4ajutpwfm4apphwtobdqkpv.streamlit.app/ 
 ## 🎯 Objective
 The main objective of this project is to:
 - Analyze sales performance across categories and regions
