@@ -4,9 +4,7 @@
 This project focuses on analyzing sales data to extract meaningful business insights and present them through an interactive dashboard. The solution combines Excel, Python, and Streamlit to perform end-to-end data analysis and visualization.
 
 ---
-## Live Demo
-
-https://sales-analytics-dashboard-4ajutpwfm4apphwtobdqkpv.streamlit.app/ 
+ 
 
 ## 🎯 Objective
 The main objective of this project is to:
@@ -80,16 +78,6 @@ Used Python for automation and deeper analysis:
 🔗 Live App:
 https://sales-analytics-dashboard-4ajutpwfm4apphwtobdqkpv.streamlit.app/
 
----
-
-## 💻 Step 8: Version Control (Git & GitHub)
-- Initialized Git repository
-- Added and committed project files
-- Connected to GitHub repository
-- Resolved merge conflicts and pushed code successfully
-
-🔗 GitHub Repository:
-https://github.com/geetha-sandhya/sales-analytics-dashboard
 
 ---
 
@@ -118,4 +106,4 @@ This dashboard helps businesses:
 ---
 
 ## 👩‍💻 Author
-Geetha Sandhya
+Geetha Sandhya 
