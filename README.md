@@ -106,4 +106,4 @@ This dashboard helps businesses:
 ---
 
 ## 👩‍💻 Author
-Geetha Sandhya 
+V.Geetha Sandhya B-Tech ArtificialIntelligence and MachineLearning.
