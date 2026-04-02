@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-st.title("📊 Sales Analytics Dashboard")
+st.title("📊Sales Analytics Dashboard")
 st.write("Analyze sales performance across categories and regions")
 
 data = pd.read_csv("Superstore Sales Dataset.csv")
