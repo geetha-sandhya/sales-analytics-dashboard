@@ -1,4 +1,4 @@
-# 📊  Sales Analytics Dashboard
+# 📊 Sales Analytics Dashboard
 
 ## 📌 Project Overview
 This project focuses on analyzing sales data to extract meaningful business insights and present them through an interactive dashboard. The solution combines Excel, Python, and Streamlit to perform end-to-end data analysis and visualization.
